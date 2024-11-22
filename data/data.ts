@@ -1,6 +1,6 @@
 const currentYear = new Date().getFullYear();
 const data = {
-    sitename: "Ankit Aglawe Portfolio",
+    sitename: "Ankit Aglawe",
     sitetagline: "Something great is on the way! ✨ 🔥",
     siteurl: "https://github.com/ankit-aglawe",
     sitelogo: "",
